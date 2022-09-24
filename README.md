@@ -2,6 +2,8 @@
 
 ## It is a simple shop management system. It give the use a platform to shop stationary items. 
 
+## Screenshots
+
 ## Quick Dashboard
 ![This is an image](https://github.com/ajharh9/Shop-Java-Problem-Statement/blob/master/Sample/first.jpg)
 
