@@ -1,6 +1,6 @@
 # Shop-Java-Problem-Statement
 
-## It is a simple shop management system. It give the use a platform to shop stationary items. 
+## It is a simple shop management system. It give the user a platform to shop stationary items. 
 
 ## Screenshots
 
